@@ -41,6 +41,10 @@ funny = Number(funny)
 
 //link up html file and create prompt and save value
 alert("Hi")
+promp("enter your name")
+
+let Username =  promp("enter your name")
+console.log("Hello " + Username)
 //access the DOM
 
 
